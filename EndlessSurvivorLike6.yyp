@@ -35,6 +35,7 @@
   "name":"EndlessSurvivorLike6",
   "resources":[
     {"id":{"name":"obj_Enemy1","path":"objects/obj_Enemy1/obj_Enemy1.yy",},},
+    {"id":{"name":"obj_GameManager","path":"objects/obj_GameManager/obj_GameManager.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"bg_field","path":"sprites/bg_field/bg_field.yy",},},
