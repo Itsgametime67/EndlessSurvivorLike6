@@ -1,1 +1,2 @@
-Tspeed = 4
+//How fast do I move?
+speed = 4

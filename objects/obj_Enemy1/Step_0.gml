@@ -1,11 +1,2 @@
-//if my x position isn't equal to the players, move towards them.
-if (x < obj_player.x )
-x += Tspeed
-if (x > obj_player.x)
-x -= Tspeed
-
-//if my y position isn't equal to the players, move towards them.
-if (y < obj_player.y)
-y += Tspeed
-if (y > obj_player.y)
-y -= Tspeed
+//Face towards the player
+direction = point_direction(x,y,obj_player.x,obj_player.y)
