@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_Enemy1","order":1,"path":"objects/obj_Enemy1/obj_Enemy1.yy",},
+    {"name":"spr_enemy1","order":1,"path":"sprites/spr_enemy1/spr_enemy1.yy",},
+  ],
+}
