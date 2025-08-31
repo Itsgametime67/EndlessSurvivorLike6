@@ -3,7 +3,8 @@
 Vspeed = 10
 maxHp = 50; 
 currentHp = maxHp; 
-dmgTaken = 5; 
+dmgTaken = 0.1; 
+
 
 //player takes set amouont of damage when colliding with enemy  
 function takeDamage()

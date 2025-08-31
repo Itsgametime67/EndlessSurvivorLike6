@@ -9,6 +9,11 @@ if (place_meeting(x, y, obj_Enemy1))
 	takeDamage();
 }
 
+
+
+
+
+
 deathTrigger(); 
 
 
