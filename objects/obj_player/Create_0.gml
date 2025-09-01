@@ -18,7 +18,7 @@ function deathTrigger()
 	if (currentHp == 0)
 	{
 		instance_destroy(obj_player)
-		game_end(); //later switch to game end screen 
+		room_goto_next()
 	}
 }
 

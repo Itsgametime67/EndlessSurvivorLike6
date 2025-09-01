@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Passives_Parent",
+  "%Name":"obj_Bstart",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Passives_Parent",
+  "name":"obj_Bstart",
   "overriddenProperties":[],
   "parent":{
-    "name":"Passive Upgrades",
-    "path":"folders/Objects/Passive Upgrades.yy",
+    "name":"Menu Buttons",
+    "path":"folders/Objects/Menu Buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_LevelUp",
-    "path":"sprites/spr_LevelUp/spr_LevelUp.yy",
+    "name":"spr_Bstart",
+    "path":"sprites/spr_Bstart/spr_Bstart.yy",
   },
   "spriteMaskId":null,
   "visible":true,
