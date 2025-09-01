@@ -1,14 +1,17 @@
 {
   "FolderOrderSettings":[
     {"name":"Enemies","order":4,"path":"folders/Objects/Enemies.yy",},
+    {"name":"Passive Upgrades","order":6,"path":"folders/Objects/Passive Upgrades.yy",},
     {"name":"Weapons","order":3,"path":"folders/Objects/Weapons.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_Attack1","order":1,"path":"objects/obj_Attack1/obj_Attack1.yy",},
     {"name":"obj_Enemy1","order":1,"path":"objects/obj_Enemy1/obj_Enemy1.yy",},
     {"name":"obj_GameManager","order":2,"path":"objects/obj_GameManager/obj_GameManager.yy",},
-    {"name":"bg_field","order":2,"path":"sprites/bg_field/bg_field.yy",},
+    {"name":"obj_PauseManager","order":7,"path":"objects/obj_PauseManager/obj_PauseManager.yy",},
+    {"name":"bg_Field","order":2,"path":"sprites/bg_Field/bg_Field.yy",},
     {"name":"spr_Attack1","order":3,"path":"sprites/spr_Attack1/spr_Attack1.yy",},
-    {"name":"spr_enemy1","order":1,"path":"sprites/spr_enemy1/spr_enemy1.yy",},
+    {"name":"spr_Enemy1","order":1,"path":"sprites/spr_Enemy1/spr_Enemy1.yy",},
+    {"name":"spr_Passive1","order":4,"path":"sprites/spr_Passive1/spr_Passive1.yy",},
   ],
 }
