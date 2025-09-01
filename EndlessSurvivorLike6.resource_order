@@ -1,9 +1,19 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Enemy_sprites","order":10,"path":"folders/Sprites/Enemy_sprites.yy",},
+    {"name":"Skeleton_sprites","order":1,"path":"folders/Sprites/Enemy_sprites/Skeleton_sprites.yy",},
+    {"name":"Player_sprites","order":9,"path":"folders/Sprites/Player_sprites.yy",},
+    {"name":"Weapon_sprites","order":8,"path":"folders/Sprites/Weapon_sprites.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"obj_Enemy1","order":1,"path":"objects/obj_Enemy1/obj_Enemy1.yy",},
     {"name":"obj_GameManager","order":2,"path":"objects/obj_GameManager/obj_GameManager.yy",},
+    {"name":"Axe_1","order":1,"path":"sprites/Axe_1/Axe_1.yy",},
     {"name":"bg_field","order":2,"path":"sprites/bg_field/bg_field.yy",},
-    {"name":"spr_enemy1","order":1,"path":"sprites/spr_enemy1/spr_enemy1.yy",},
+    {"name":"Scythe_1","order":2,"path":"sprites/Scythe_1/Scythe_1.yy",},
+    {"name":"spr_enemy1_run","order":1,"path":"sprites/spr_enemy1_run/spr_enemy1_run.yy",},
+    {"name":"spr_player_run","order":1,"path":"sprites/spr_player_run/spr_player_run.yy",},
+    {"name":"Sprite_map","order":1,"path":"sprites/Sprite_map/Sprite_map.yy",},
+    {"name":"Sprite_Sheet_Frames","order":3,"path":"sprites/Sprite_Sheet_Frames/Sprite_Sheet_Frames.yy",},
   ],
 }
