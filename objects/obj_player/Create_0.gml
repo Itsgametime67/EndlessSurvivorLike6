@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-Vspeed = 10
-maxHp = 50; 
+
+
 currentHp = maxHp; 
 dmgTaken = 0.1; 
 
@@ -21,3 +21,6 @@ function deathTrigger()
 		game_end(); //later switch to game end screen 
 	}
 }
+
+//create attacks 
+alarm_set(0, Firerate);

@@ -1,9 +1,14 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Enemies","order":4,"path":"folders/Objects/Enemies.yy",},
+    {"name":"Weapons","order":3,"path":"folders/Objects/Weapons.yy",},
+  ],
   "ResourceOrderSettings":[
+    {"name":"obj_Attack1","order":1,"path":"objects/obj_Attack1/obj_Attack1.yy",},
     {"name":"obj_Enemy1","order":1,"path":"objects/obj_Enemy1/obj_Enemy1.yy",},
     {"name":"obj_GameManager","order":2,"path":"objects/obj_GameManager/obj_GameManager.yy",},
     {"name":"bg_field","order":2,"path":"sprites/bg_field/bg_field.yy",},
+    {"name":"spr_Attack1","order":3,"path":"sprites/spr_Attack1/spr_Attack1.yy",},
     {"name":"spr_enemy1","order":1,"path":"sprites/spr_enemy1/spr_enemy1.yy",},
   ],
 }
