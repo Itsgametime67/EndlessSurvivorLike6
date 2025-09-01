@@ -1,17 +1,23 @@
 {
   "FolderOrderSettings":[
     {"name":"Enemies","order":4,"path":"folders/Objects/Enemies.yy",},
+    {"name":"Menu Buttons","order":8,"path":"folders/Objects/Menu Buttons.yy",},
     {"name":"Passive Upgrades","order":6,"path":"folders/Objects/Passive Upgrades.yy",},
     {"name":"Weapons","order":3,"path":"folders/Objects/Weapons.yy",},
+    {"name":"Attacks","order":4,"path":"folders/Sprites/Attacks.yy",},
+    {"name":"Buttons","order":3,"path":"folders/Sprites/Buttons.yy",},
+    {"name":"Enemies","order":2,"path":"folders/Sprites/Enemies.yy",},
+    {"name":"Passives","order":5,"path":"folders/Sprites/Passives.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_Attack1","order":1,"path":"objects/obj_Attack1/obj_Attack1.yy",},
     {"name":"obj_Enemy1","order":1,"path":"objects/obj_Enemy1/obj_Enemy1.yy",},
     {"name":"obj_GameManager","order":2,"path":"objects/obj_GameManager/obj_GameManager.yy",},
     {"name":"obj_PauseManager","order":7,"path":"objects/obj_PauseManager/obj_PauseManager.yy",},
-    {"name":"bg_Field","order":2,"path":"sprites/bg_Field/bg_Field.yy",},
-    {"name":"spr_Attack1","order":3,"path":"sprites/spr_Attack1/spr_Attack1.yy",},
-    {"name":"spr_Enemy1","order":1,"path":"sprites/spr_Enemy1/spr_Enemy1.yy",},
-    {"name":"spr_Passive1","order":4,"path":"sprites/spr_Passive1/spr_Passive1.yy",},
+    {"name":"rm_GameOver","order":2,"path":"rooms/rm_GameOver/rm_GameOver.yy",},
+    {"name":"rm_Start","order":1,"path":"rooms/rm_Start/rm_Start.yy",},
+    {"name":"bg_Field","order":1,"path":"sprites/bg_Field/bg_Field.yy",},
+    {"name":"bg_GameOver","order":7,"path":"sprites/bg_GameOver/bg_GameOver.yy",},
+    {"name":"spr_LevelUp","order":6,"path":"sprites/spr_LevelUp/spr_LevelUp.yy",},
   ],
 }
