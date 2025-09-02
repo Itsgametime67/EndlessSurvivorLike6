@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"bg_GameOver",
   "bboxMode":0,
   "bbox_bottom":767,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"73d786d1-d3ff-454e-b6e1-e8ea9d508d0f","name":"73d786d1-d3ff-454e-b6e1-e8ea9d508d0f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"73d786d1-d3ff-454e-b6e1-e8ea9d508d0f","name":"73d786d1-d3ff-454e-b6e1-e8ea9d508d0f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

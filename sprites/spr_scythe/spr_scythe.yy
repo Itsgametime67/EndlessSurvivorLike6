@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GMSprite":"",
   "%Name":"spr_scythe",
   "bboxMode":0,
   "bbox_bottom":15,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"01a47e3c-6113-4b1f-80b0-a08c5f6865b8","name":"01a47e3c-6113-4b1f-80b0-a08c5f6865b8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"01a47e3c-6113-4b1f-80b0-a08c5f6865b8","name":"01a47e3c-6113-4b1f-80b0-a08c5f6865b8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
