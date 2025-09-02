@@ -23,12 +23,19 @@ if (place_meeting(x, y, obj_Enemy_Parent))
 	takeDamage();
 }
 
+displayHp = currentHp;
 
+displayHp = int64(displayHp);
 
 //Health regeneration
-currentHp += RegenerationSpeed
 
-deathTrigger(); 
+if (currentHp <= maxHp)
+{
+currentHp += RegenerationSpeed
+}
+
+
+//deathTrigger(); 
 
 
 //When experience is full, create the level up menu
