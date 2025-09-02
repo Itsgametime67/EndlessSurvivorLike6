@@ -7,6 +7,7 @@
     {"name":"Attacks","order":4,"path":"folders/Sprites/Attacks.yy",},
     {"name":"Buttons","order":3,"path":"folders/Sprites/Buttons.yy",},
     {"name":"Enemies","order":2,"path":"folders/Sprites/Enemies.yy",},
+    {"name":"Slime Sprites","order":3,"path":"folders/Sprites/Enemies/Slime Sprites.yy",},
     {"name":"Skeleton Sprites","order":2,"path":"folders/Sprites/Enemies/Skeleton Sprites.yy",},
     {"name":"Passives","order":5,"path":"folders/Sprites/Passives.yy",},
     {"name":"Player Sprites","order":10,"path":"folders/Sprites/Player Sprites.yy",},
@@ -15,6 +16,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_Attack1","order":1,"path":"objects/obj_Attack1/obj_Attack1.yy",},
     {"name":"obj_Enemy1","order":1,"path":"objects/obj_Enemy1/obj_Enemy1.yy",},
+    {"name":"obj_Enemy2","order":2,"path":"objects/obj_Enemy2/obj_Enemy2.yy",},
     {"name":"obj_GameManager","order":1,"path":"objects/obj_GameManager/obj_GameManager.yy",},
     {"name":"obj_LevelUp","order":7,"path":"objects/obj_LevelUp/obj_LevelUp.yy",},
     {"name":"obj_Passive1","order":1,"path":"objects/obj_Passive1/obj_Passive1.yy",},
