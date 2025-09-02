@@ -25,15 +25,15 @@ if (place_meeting(x, y, obj_Enemy_Parent))
 
 
 
-
-
+//Health regeneration
+currentHp += RegenerationSpeed
 
 deathTrigger(); 
 
 
 //When experience is full, create the level up menu
-if (Experience >= 100)
+if (Experience >= 10)
 {
-instance_create_layer(x, y, "Level_Up", obj_Passives_Parent)
+instance_create_layer(x, y, "Level_Up", obj_LevelUp)
 Experience = 0
 }

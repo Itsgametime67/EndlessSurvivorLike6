@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Passives_Parent",
+  "%Name":"obj_Passive1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Passives_Parent",
+  "name":"obj_Passive1",
   "overriddenProperties":[],
   "parent":{
     "name":"Passive Upgrades",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_LevelUp",
-    "path":"sprites/spr_LevelUp/spr_LevelUp.yy",
+    "name":"spr_passive1",
+    "path":"sprites/spr_passive1/spr_passive1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
