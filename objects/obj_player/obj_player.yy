@@ -15,7 +15,7 @@
     "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,11 +30,17 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"Move_Speed","filters":[],"listItems":[],"multiselect":false,"name":"Move_Speed","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"2.5","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"maxHp","filters":[],"listItems":[],"multiselect":false,"name":"maxHp","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"50","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"maxHp","filters":[],"listItems":[],"multiselect":false,"name":"maxHp","rangeEnabled":false,"rangeMax":50.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"50","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"Firerate","filters":[],"listItems":[],"multiselect":false,"name":"Firerate","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"30","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"Experience","filters":[],"listItems":[],"multiselect":false,"name":"Experience","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"RegenerationSpeed","filters":[],"listItems":[],"multiselect":false,"name":"RegenerationSpeed","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.01","varType":0,},
+
+    
+    {"$GMObjectProperty":"v1","%Name":"currentHp","filters":[],"listItems":[],"multiselect":false,"name":"currentHp","rangeEnabled":true,"rangeMax":50.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"50","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"displayHp","filters":[],"listItems":[],"multiselect":false,"name":"displayHp","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"50","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"MExperience","filters":[],"listItems":[],"multiselect":false,"name":"MExperience","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":1,},
+
+
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
