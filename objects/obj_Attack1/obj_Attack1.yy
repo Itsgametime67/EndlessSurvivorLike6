@@ -4,10 +4,12 @@
   "eventList":[],
   "managed":true,
   "name":"obj_Attack1",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_Attack_Parent","path":"objects/obj_Attack_Parent/obj_Attack_Parent.yy",},"propertyId":{"name":"Attack_Velocity","path":"objects/obj_Attack_Parent/obj_Attack_Parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
+  ],
   "parent":{
-    "name":"Weapons",
-    "path":"folders/Objects/Weapons.yy",
+    "name":"Attack Hitbox Objects",
+    "path":"folders/Objects/Attack Hitbox Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_Attack_Parent",

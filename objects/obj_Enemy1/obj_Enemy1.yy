@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_skeleton_idle",
-    "path":"sprites/spr_skeleton_idle/spr_skeleton_idle.yy",
+    "name":"spr_skeleton_run",
+    "path":"sprites/spr_skeleton_run/spr_skeleton_run.yy",
   },
   "spriteMaskId":null,
   "visible":true,
