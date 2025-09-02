@@ -7,6 +7,7 @@ instance_deactivate_all(true)
 instance_activate_object(obj_player)
 instance_activate_object(obj_LevelUp)
 instance_activate_object(obj_Passive1)
+
 }else{
 instance_activate_all()
 }
