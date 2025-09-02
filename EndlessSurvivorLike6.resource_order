@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings":[
+    {"name":"Attack Hitbox Objects","order":2,"path":"folders/Objects/Attack Hitbox Objects.yy",},
     {"name":"Enemies","order":3,"path":"folders/Objects/Enemies.yy",},
     {"name":"Menu Buttons","order":6,"path":"folders/Objects/Menu Buttons.yy",},
     {"name":"Passive Upgrades","order":4,"path":"folders/Objects/Passive Upgrades.yy",},
-    {"name":"Attack Hitbox Objects","order":2,"path":"folders/Objects/Attack Hitbox Objects.yy",},
     {"name":"Attacks","order":4,"path":"folders/Sprites/Attacks.yy",},
     {"name":"Buttons","order":3,"path":"folders/Sprites/Buttons.yy",},
     {"name":"Enemies","order":2,"path":"folders/Sprites/Enemies.yy",},
@@ -24,6 +24,7 @@
     {"name":"bg_Field","order":1,"path":"sprites/bg_Field/bg_Field.yy",},
     {"name":"bg_GameOver","order":7,"path":"sprites/bg_GameOver/bg_GameOver.yy",},
     {"name":"spr_axe","order":1,"path":"sprites/spr_axe/spr_axe.yy",},
+    {"name":"spr_DeathScreen","order":12,"path":"sprites/spr_DeathScreen/spr_DeathScreen.yy",},
     {"name":"spr_LevelUp","order":6,"path":"sprites/spr_LevelUp/spr_LevelUp.yy",},
     {"name":"spr_Player_run","order":1,"path":"sprites/spr_Player_run/spr_Player_run.yy",},
     {"name":"spr_scythe","order":2,"path":"sprites/spr_scythe/spr_scythe.yy",},
