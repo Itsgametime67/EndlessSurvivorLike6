@@ -3,7 +3,7 @@
     {"name":"Enemies","order":4,"path":"folders/Objects/Enemies.yy",},
     {"name":"Menu Buttons","order":8,"path":"folders/Objects/Menu Buttons.yy",},
     {"name":"Passive Upgrades","order":6,"path":"folders/Objects/Passive Upgrades.yy",},
-    {"name":"Weapons","order":3,"path":"folders/Objects/Weapons.yy",},
+    {"name":"Attack Hitbox Objects","order":3,"path":"folders/Objects/Attack Hitbox Objects.yy",},
     {"name":"Attacks","order":4,"path":"folders/Sprites/Attacks.yy",},
     {"name":"Buttons","order":3,"path":"folders/Sprites/Buttons.yy",},
     {"name":"Enemies","order":2,"path":"folders/Sprites/Enemies.yy",},

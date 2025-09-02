@@ -10,7 +10,12 @@ var Mdown = keyboard_check(ord("S"))
 hspeed = (Mleft + Mright) * Move_Speed
 vspeed = (Mup + Mdown) * Move_Speed
 
-	
+
+// if the player is moving, switch sprite to the running sprite. Otherwise the sprite is idle.
+if (hspeed != 0) or (vspeed != 0 )
+sprite_index = spr_Player_run
+else
+sprite_index = spr_Player_idle
 	
 // make player take damage on collsionm with enemies
 if (place_meeting(x, y, obj_Enemy_Parent))
@@ -27,7 +32,7 @@ deathTrigger();
 
 
 //When experience is full, create the level up menu
-if (Experience >= 10)
+if (Experience >= 100)
 {
 instance_create_layer(x, y, "Level_Up", obj_Passives_Parent)
 Experience = 0
