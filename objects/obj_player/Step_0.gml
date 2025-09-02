@@ -35,7 +35,7 @@ currentHp += RegenerationSpeed
 }
 
 
-//deathTrigger(); 
+deathTrigger(); 
 
 
 //When experience is full, create the level up menu
