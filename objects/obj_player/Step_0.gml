@@ -14,6 +14,9 @@ if (!global.paused)
 {
 hspeed = (Mleft + Mright) * Move_Speed
 vspeed = (Mup + Mdown) * Move_Speed
+}else{
+	hspeed = 0
+	vspeed = 0
 }
 
 
