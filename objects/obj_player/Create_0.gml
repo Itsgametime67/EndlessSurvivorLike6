@@ -3,7 +3,7 @@
 
 
 currentHp = maxHp; 
-dmgTaken = 0.1; 
+dmgTaken = 1; 
 
 
 //player takes set amouont of damage when colliding with enemy  
