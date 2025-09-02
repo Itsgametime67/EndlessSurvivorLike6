@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
+global.paused = false
 currentHp = maxHp; 
 dmgTaken = 1; 
 
@@ -15,12 +15,13 @@ function takeDamage()
 // player dies when current hp is 0 
 function deathTrigger()
 {
-	if (currentHp == 0)
+	if (currentHp <= 0)
 	{
-		instance_destroy(obj_player)
-		room_goto_next()
+		
+		room_goto(rm_GameOver)
 	}
 }
 
 //create attacks 
-alarm_set(0, Firerate);
+if(!global.paused)
+alarm_set(0, Firerate)
