@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_LevelUp",
+  "%Name":"obj_XPcollectionSphere",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_LevelUp",
+  "name":"obj_XPcollectionSphere",
   "overriddenProperties":[],
   "parent":{
     "name":"Player stuff",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_LevelUp",
-    "path":"sprites/spr_LevelUp/spr_LevelUp.yy",
+    "name":"spr_sphere",
+    "path":"sprites/spr_sphere/spr_sphere.yy",
   },
   "spriteMaskId":null,
   "visible":true,
