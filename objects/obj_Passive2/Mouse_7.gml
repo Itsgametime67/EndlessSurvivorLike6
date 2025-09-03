@@ -1,4 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-maxHp -= obj_Attack_Parent.Damage
+obj_player.Wspawnrate -= 100
+
+instance_destroy(obj_LevelUp)
+instance_destroy(self)

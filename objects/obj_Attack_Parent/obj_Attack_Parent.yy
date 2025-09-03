@@ -30,7 +30,7 @@
     {"$GMObjectProperty":"v1","%Name":"Attack_Velocity","filters":[],"listItems":[],"multiselect":false,"name":"Attack_Velocity","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"10","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"Current_Life_Span","filters":[],"listItems":[],"multiselect":false,"name":"Current_Life_Span","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"Max_Life_Span","filters":[],"listItems":[],"multiselect":false,"name":"Max_Life_Span","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"10","varType":1,},
-    {"$GMObjectProperty":"v1","%Name":"Weapon_Number","filters":[],"listItems":[],"multiselect":false,"name":"Weapon_Number","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"Damage","filters":[],"listItems":[],"multiselect":false,"name":"Damage","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
