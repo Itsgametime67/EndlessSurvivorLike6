@@ -11,7 +11,10 @@
     "name":"Passive Upgrades",
     "path":"folders/Objects/Passive Upgrades.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_Passive_Parent",
+    "path":"objects/obj_Passive_Parent/obj_Passive_Parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

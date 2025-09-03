@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Passive2",
-  "eventList":[],
+  "%Name":"obj_Passive_Parent",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Passive2",
+  "name":"obj_Passive_Parent",
   "overriddenProperties":[],
   "parent":{
     "name":"Passive Upgrades",
     "path":"folders/Objects/Passive Upgrades.yy",
   },
-  "parentObjectId":{
-    "name":"obj_Passive_Parent",
-    "path":"objects/obj_Passive_Parent/obj_Passive_Parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_Passive2",
-    "path":"sprites/spr_Passive2/spr_Passive2.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
