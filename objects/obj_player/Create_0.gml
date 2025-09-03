@@ -25,3 +25,5 @@ function deathTrigger()
 //create attacks 
 if(!global.paused)
 alarm_set(0, Firerate)
+
+instance_create_layer(x,y,"Instances", obj_XPcollectionSphere)

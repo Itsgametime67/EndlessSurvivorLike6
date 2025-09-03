@@ -1,4 +1,4 @@
 /// @description
 // You can write your code in this editor
 
-obj_player.Experience += Experience
+instance_create_layer(x,y,"Instances", obj_XPgem)
