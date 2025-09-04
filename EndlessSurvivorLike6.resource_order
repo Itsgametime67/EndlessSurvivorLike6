@@ -43,6 +43,7 @@
     {"name":"snd_weaponPickUp","order":3,"path":"sounds/snd_weaponPickUp/snd_weaponPickUp.yy",},
     {"name":"snd_weaponSound","order":2,"path":"sounds/snd_weaponSound/snd_weaponSound.yy",},
     {"name":"bg_DeathScreen","order":1,"path":"sprites/bg_DeathScreen/bg_DeathScreen.yy",},
+    {"name":"bg_Menu","order":2,"path":"sprites/bg_Menu/bg_Menu.yy",},
     {"name":"spr_Attack2","order":1,"path":"sprites/spr_Attack2/spr_Attack2.yy",},
     {"name":"spr_Attack3","order":2,"path":"sprites/spr_Attack3/spr_Attack3.yy",},
     {"name":"spr_axe","order":1,"path":"sprites/spr_axe/spr_axe.yy",},

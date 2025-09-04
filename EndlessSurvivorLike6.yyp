@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"EndlessSurvivorLike6",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -45,7 +45,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.1400.0.880",
   },
   "name":"EndlessSurvivorLike6",
   "resources":[
@@ -83,6 +83,7 @@
     {"id":{"name":"snd_weaponSound","path":"sounds/snd_weaponSound/snd_weaponSound.yy",},},
     {"id":{"name":"bg_Controls","path":"sprites/bg_Controls/bg_Controls.yy",},},
     {"id":{"name":"bg_DeathScreen","path":"sprites/bg_DeathScreen/bg_DeathScreen.yy",},},
+    {"id":{"name":"bg_Menu","path":"sprites/bg_Menu/bg_Menu.yy",},},
     {"id":{"name":"spr_Attack1","path":"sprites/spr_Attack1/spr_Attack1.yy",},},
     {"id":{"name":"spr_Attack2","path":"sprites/spr_Attack2/spr_Attack2.yy",},},
     {"id":{"name":"spr_Attack3","path":"sprites/spr_Attack3/spr_Attack3.yy",},},
