@@ -1,9 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-Vspeed = 10
-maxHp = 50; 
+
+global.paused = false
 currentHp = maxHp; 
-dmgTaken = 0.1; 
+dmgTaken = 1; 
 
 
 //player takes set amouont of damage when colliding with enemy  
@@ -15,9 +15,15 @@ function takeDamage()
 // player dies when current hp is 0 
 function deathTrigger()
 {
-	if (currentHp == 0)
+	if (currentHp <= 0)
 	{
-		instance_destroy(obj_player)
-		game_end(); //later switch to game end screen 
+		
+		room_goto(rm_GameOver)
 	}
 }
+
+//create attacks 
+if(!global.paused)
+alarm_set(0, Firerate)
+
+instance_create_layer(x,y,"Instances", obj_XPcollectionSphere)

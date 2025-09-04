@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Enemy1",
-  "eventList":[],
+  "%Name":"obj_LevelUp",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Enemy1",
+  "name":"obj_LevelUp",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Player stuff",
+    "path":"folders/Objects/Player stuff.yy",
   },
-  "parentObjectId":{
-    "name":"obj_Enemy_Parent",
-    "path":"objects/obj_Enemy_Parent/obj_Enemy_Parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_skeleton_run",
-    "path":"sprites/spr_skeleton_run/spr_skeleton_run.yy",
+    "name":"spr_LevelUp",
+    "path":"sprites/spr_LevelUp/spr_LevelUp.yy",
   },
   "spriteMaskId":null,
   "visible":true,

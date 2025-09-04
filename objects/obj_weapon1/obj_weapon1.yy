@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Enemy1",
-  "eventList":[],
+  "%Name":"obj_weapon1",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Enemy1",
+  "name":"obj_weapon1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Weapons",
+    "path":"folders/Objects/Weapons.yy",
   },
-  "parentObjectId":{
-    "name":"obj_Enemy_Parent",
-    "path":"objects/obj_Enemy_Parent/obj_Enemy_Parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_skeleton_run",
-    "path":"sprites/spr_skeleton_run/spr_skeleton_run.yy",
+    "name":"spr_scythe",
+    "path":"sprites/spr_scythe/spr_scythe.yy",
   },
   "spriteMaskId":null,
   "visible":true,

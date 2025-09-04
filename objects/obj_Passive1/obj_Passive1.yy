@@ -1,17 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Enemy1",
-  "eventList":[],
+  "%Name":"obj_Passive1",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Enemy1",
+  "name":"obj_Passive1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Passive Upgrades",
+    "path":"folders/Objects/Passive Upgrades.yy",
   },
   "parentObjectId":{
-    "name":"obj_Enemy_Parent",
-    "path":"objects/obj_Enemy_Parent/obj_Enemy_Parent.yy",
+    "name":"obj_Passive_Parent",
+    "path":"objects/obj_Passive_Parent/obj_Passive_Parent.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_skeleton_run",
-    "path":"sprites/spr_skeleton_run/spr_skeleton_run.yy",
+    "name":"spr_passive1",
+    "path":"sprites/spr_passive1/spr_passive1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
