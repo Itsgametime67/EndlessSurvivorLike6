@@ -27,7 +27,7 @@ sprite_index = spr_Player_run
 else
 sprite_index = spr_Player_idle
 	
-// make player take damage on collsionm with enemies
+// make player take damage on collsion with enemies
 if (place_meeting(x, y, obj_Enemy_Parent))
 {
 	takeDamage();
@@ -61,3 +61,7 @@ if (global.paused = true)
 image_alpha = 0
 else
 image_alpha = 1
+
+
+
+
