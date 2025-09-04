@@ -3,6 +3,9 @@
 
 has_checked_once = false
 
+//start bg music
+audio_play_sound(snd_bgMusic, 0, true);
+
 
 //Set spawning alarms
 alarm_set(0,10)

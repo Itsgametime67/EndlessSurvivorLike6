@@ -3,3 +3,6 @@
 
 obj_player.Experience += XPvalue
 instance_destroy(self)
+
+
+	
