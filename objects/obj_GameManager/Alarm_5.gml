@@ -11,6 +11,7 @@ var Weaponlist = ds_list_create()
 
 //include additional weapons here
 ds_list_add(Weaponlist, obj_weapon1)
+ds_list_add(Weaponlist, obj_weapon2)
 
 ds_list_shuffle(Weaponlist)
 
