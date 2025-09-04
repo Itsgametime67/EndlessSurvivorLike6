@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_DeathScreen",
   "bboxMode":0,
   "bbox_bottom":55,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"c87972be-a1db-4ddf-96f6-c6ea3c58b935","name":"c87972be-a1db-4ddf-96f6-c6ea3c58b935","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c87972be-a1db-4ddf-96f6-c6ea3c58b935","name":"c87972be-a1db-4ddf-96f6-c6ea3c58b935","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
